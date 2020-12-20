@@ -1,0 +1,7 @@
+Executable : C:\Users\Administrator\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\00android\opengl007\AndroidOpenGLES-master\openglcamera\.cxx\cmake\debug\x86_64
+ImageBeauty
+jvmArgs : 
+

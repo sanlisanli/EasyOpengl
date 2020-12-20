@@ -1,0 +1,4 @@
+# ninja log v5
+0	69	630042919	CMakeFiles/ImageBeauty.dir/src/main/jni/ImageBeauty.cpp.o	e1a4780d5d09c0f4
+1	112	630042919	CMakeFiles/ImageBeauty.dir/src/main/jni/bitmap/BitmapOperation.cpp.o	cb752e9db025a849
+112	160	630042919	../../../../build/intermediates/cmake/debug/obj/armeabi-v7a/libImageBeauty.so	b147764958e92899

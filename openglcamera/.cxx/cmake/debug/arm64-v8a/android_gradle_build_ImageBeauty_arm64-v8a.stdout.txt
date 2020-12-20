@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\00android\opengl007\AndroidOpenGLES-master\openglcamera\.cxx\cmake\debug\arm64-v8a'
+ninja: no work to do.
